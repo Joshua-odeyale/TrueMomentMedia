@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 90" role="img" aria-label="TrueMoment Media logo (for dark backgrounds)">
+  <g transform="translate(10,13)">
+    <circle cx="32" cy="32" r="29" fill="none" stroke="#C9A45C" stroke-width="2.6"/>
+    <g stroke="#C9A45C" stroke-width="2.6" stroke-linecap="round" fill="none">
+      <line x1="38.16" y1="21.33" x2="53.47" y2="47.84"/>
+      <line x1="25.84" y1="21.33" x2="56.45" y2="21.33"/>
+      <line x1="19.68" y1="32" x2="34.99" y2="5.49"/>
+      <line x1="25.84" y1="42.67" x2="10.53" y2="16.16"/>
+      <line x1="38.16" y1="42.67" x2="7.55" y2="42.67"/>
+      <line x1="44.32" y1="32" x2="29.01" y2="58.51"/>
+    </g>
+  </g>
+  <text x="92" y="46" font-family="Playfair Display, Georgia, serif" font-size="30" font-weight="700" fill="#FFFFFF">TRUE MOMENT</text>
+  <text x="94" y="72" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="8" fill="#C9A45C">MEDIA</text>
+</svg>
